@@ -38,11 +38,5 @@ public class Less_3_1 {
 
         System.out.println("Сранения ящика N1 с яблоками с ящиком апельсинов: " + appleBox1.compare(orangeBox));
         System.out.println("Сранения ящика N2 с яблоками с ящиком апельсинов: " + appleBox2.compare(orangeBox));
-
-
-
-
-
-
     }
 }

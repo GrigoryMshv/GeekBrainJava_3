@@ -1,5 +1,5 @@
 package Lesson1;
-
+//
 public class Orange implements Fruit {
 
     @Override
